@@ -1,6 +1,3 @@
-bioworx
-=======
-
 Tools for the fight of humans against nature
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
@@ -130,4 +127,3 @@ OPTIONS
 ```
 
 _See code: [src/commands/string/startingpos.ts](https://github.com/stewoe/bioworx/blob/v0.0.1/src/commands/string/startingpos.ts)_
-<!-- commandsstop -->
